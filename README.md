@@ -104,3 +104,10 @@ Champions, Loyal Customers, Hibernating, Need Attention.
 
 **Tools Used:** Python, Pandas, Numpy, BG/NBD Model, Gamma-Gamma Model
 
+## 10. Time Series Forecast
+
+In this project we attempt to forecast Bitcoin (BTC) prices using 
+ARMA, ARIMA and SARIMA models.
+
+**Tools Used:** Python, Pandas, Numpy, Statsmodels
+
